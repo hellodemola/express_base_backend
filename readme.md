@@ -13,6 +13,7 @@ Includes hot-reloading for development and a clean build pipeline for production
 
 ## 📂 Project Structure
 
+```
 backend/
 ├── src/
 │ ├── server.ts # App entry point
@@ -23,6 +24,8 @@ backend/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+
+```
 
 ---
 
